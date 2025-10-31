@@ -1,1 +1,1 @@
-# Python Course Assignments
+# Python course assignments
